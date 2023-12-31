@@ -25,6 +25,6 @@ Catch ya' later!
 
 ```you@github ~$ exit```
 
-```Github Linux 6.1.38-1 (tty1)```
+```Github Linux 6.4.0 (tty1)```
 
 ```githubRack login: ```
