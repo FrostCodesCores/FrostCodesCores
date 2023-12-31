@@ -18,9 +18,11 @@ Catch ya' later!
    
    - DOOM
      
-   - Every source and goldsrc game
+   - Valve Games
    
-   - Early development stuff
+   - Beta content
+
+   - Lost media
 
 
 ```you@github ~$ exit```
