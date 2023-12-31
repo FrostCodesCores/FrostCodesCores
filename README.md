@@ -1,7 +1,7 @@
 ### Hi there.
 ```you@github ~$ ./intro.sh```
 
- Hello!  I'm Frost Core, a programmer that does not know alot about programming, I like gamedev and electricity and how it works, hope you stick around here and maybe enjoy some of my repos and projects.
+ Hello!  I'm Frost Core, a programmer that does not know a lot about programming, I like gamedev and electricity and how it works, hope you stick around here and maybe enjoy some of my repos and projects.
 Catch ya' later!
 
 
@@ -16,7 +16,9 @@ Catch ya' later!
    
    - Messing around with stuff
    
-   - DOOM (Every source and goldsrc game)
+   - DOOM
+     
+   - Every source and goldsrc game
    
    - Early development stuff
 
