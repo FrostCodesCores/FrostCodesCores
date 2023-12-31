@@ -1,30 +1,30 @@
 ### Hi there.
-```you@githubl~$ ./intro.sh```
+```you@github ~$ ./intro.sh```
 
- Hello!  I'm Frost Core, a programmer that does not know programming alot, i like gamedev and electricity and how it works, hope you stick around here and maybe enjoy some of my repos n projects
- Catch ya later!
+ Hello!  I'm Frost Core, a programmer that does not know a lot about programming, I like gamedev and electricity and how it works, hope you stick around here and maybe enjoy some of my repos and projects.
+Catch ya' later!
 
 
-```you@githubl~$ ./interests.sh```
+```you@github ~$ ./interests.sh```
  
  
 ### Interests 💡: 
 
-   Game Development
+   - Game Development
    
-   Engineering computers and microchips
+   - Engineering computers and microchips
    
-   Messing around with stuff
+   - Messing around with stuff
    
-   DOOM
+   - DOOM
+     
+   - Every source and goldsrc game
    
-   Like every source and goldsrc game
-   
-   early development stuff
+   - Early development stuff
 
 
-```you@githubl~$ exit```
+```you@github ~$ exit```
 
-```Github Linux 6.1.38-1 (tty1)```
+```Github Linux 6.4.0 (tty1)```
 
 ```githubRack login: ```
